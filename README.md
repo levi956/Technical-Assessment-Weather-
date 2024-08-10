@@ -39,6 +39,6 @@ The application features the design principle "Component Driven Design" which en
 |    :---:     |     :---:      |  
 | <img src="graphics/homepage.png" width="500">   | <img src="graphics/favorites_page.png" width="500">   |
 
-| User location forecast page  | Create note page  | 
+| User location forecast page  | Persisted favorite page  | 
 |    :---:     |     :---:      |  
 | <img src="graphics/current_location_page.png" width="500">   | <img src="graphics/persisted_favorite.png" width="500">   |
